@@ -1,15 +1,1 @@
-
-
-{
-  "allowedIps": ["172.18.0.2"],
-  "users": [
-    {
-      "username": "user1",
-      "password": "password1"
-    },
-    {
-      "username": "user2",
-      "password": "password2"
-    }
-  ]
-}
+"886688"
